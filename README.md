@@ -1,13 +1,7 @@
 Overview
 ========
 
-Radius.NET is a Radius client built on the .NET 4.5 runtime.  It currently only supports the PAP protocol.
-Other protocols will be added if needed.  Pull requests are also welcome.
-
-Requirements
-============
-
-.NET 4.5 installed
+Radius.NET is a Radius client built on the .NET Standard.
 
 Example Usage
 =============

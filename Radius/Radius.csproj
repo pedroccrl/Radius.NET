@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Pedroccrl.Radius.Net</PackageId>
+    <Authors>Pedro Câmara</Authors>
+    <Company>Pedroccrl</Company>
+    <Description>This is a fork from github.com/frontporch/Radius.NET, ported to .Net Standard and some improvements like Disconnect-Message Support.</Description>
+    <PackageProjectUrl>https://github.com/pedroccrl/Radius.NET</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
