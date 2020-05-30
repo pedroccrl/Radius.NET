@@ -7,6 +7,19 @@
     <Company>Pedroccrl</Company>
     <Description>This is a fork from github.com/frontporch/Radius.NET, ported to .Net Standard and some improvements like Disconnect-Message Support.</Description>
     <PackageProjectUrl>https://github.com/pedroccrl/Radius.NET</PackageProjectUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/pedroccrl/Radius.NET</RepositoryUrl>
+    <PackageTags>Radius, NET</PackageTags>
+    <PackageReleaseNotes>Ported to .Net Standard
+Disconnect-Message Support
+</PackageReleaseNotes>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
